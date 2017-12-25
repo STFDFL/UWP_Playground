@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="MyDataTypes.PetData[]">
+    <Item>
+      <Name>Fifi</Name>
+      <Species>Dog</Species>
+      <Weight>11</Weight>
+      <Age>6</Age>
+    </Item>
+    <Item>
+      <Name>Bruno</Name>
+      <Species>Dog</Species>
+      <Weight>21</Weight>
+      <Age>12</Age>
+    </Item>
+    <Item>
+      <Name>Chloe</Name>
+      <Species>Cat</Species>
+      <Weight>6</Weight>
+      <Age>3</Age>
+    </Item>
+    <Item>
+      <Name>Pickles</Name>
+      <Species>Hamster</Species>
+      <Weight>0.4</Weight>
+      <Age>1</Age>
+    </Item>
+  </Asset>
+</XnaContent>    
